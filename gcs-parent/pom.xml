@@ -388,5 +388,6 @@
   	<module>gcs-framework</module>
   	<module>gcs-merchant</module>
   	<module>gcs-app</module>
+  	<module>gcs-service</module>
   </modules>
 </project>
